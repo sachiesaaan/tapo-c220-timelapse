@@ -1,8 +1,9 @@
-# Time-lapse with a Raspberry Pi and a TP-Link Tapo C200 IP-Camera
+# Time-lapse with a Raspberry Pi and a TP-Link Tapo C220 IP-Camera
 
-This is my setup to take time-lapse videos from my balcony with a Raspberry Pi using a TP-Link Tapo C200 IP-Camera.
-
+original repo : https://github.com/markszabo/tapo-c200-timelapse
 [![Time-lapse](https://yt-embed.herokuapp.com/embed?v=Gn30s9ypFZ0)](https://www.youtube.com/watch?v=Gn30s9ypFZ0 "Time-lapse")
+
+The original one is for C200, but I tested it with C220 and it worked successfully! I also add a shell script to rclone my videos.
 
 ## High level overview
 
